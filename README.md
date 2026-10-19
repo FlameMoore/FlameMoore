@@ -11,3 +11,6 @@
   <br />
   <img src="https://img.shields.io/badge/🇷🇺%20Русский-100%25-374151?style=for-the-badge&labelColor=4B5563" />
 </p>
+
+## 📜 Certifications
+* **Introduction to HTML** — Sololearn (Issued Oct 2026) | [Verify](https://www.sololearn.com/certificates/CC-MOIP4Q6S)
